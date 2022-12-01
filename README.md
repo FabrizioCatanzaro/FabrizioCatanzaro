@@ -15,6 +15,9 @@
 - 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **fabriziocatanzaro1@gmail.com**
+
+- ⚡ Random programming joke:
+` Why all Pascal programmers ask to live in Atlantis? Because it is below C level. `
   
 </div>
 <h3 align="left">Connect with me:</h3>
