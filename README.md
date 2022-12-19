@@ -10,14 +10,15 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align=left>
   
-- 🔭 I’m currently working on **My Tinerary**
+- 🔭 I’m currently working on **RTFC - Challenge Final Mindhub**
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **fabriziocatanzaro1@gmail.com**
+- 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
 
 - ⚡ Random programming joke:
-` Why all Pascal programmers ask to live in Atlantis? Because it is below C level. `
+` A programmer is sent to the grocery store with instructions to “Buy butter and see whether they have eggs, if they do, then buy 10.” `
+` Returning with 10 butters, the programmer says, “They had eggs.” `
   
 </div>
 <h3 align="left">Connect with me:</h3>
