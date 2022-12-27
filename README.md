@@ -10,7 +10,7 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align=left>
   
-- 🔭 I’m currently working on **RTFC - Challenge Final Mindhub**
+- 🔭 My last work was: **RTFC - Challenge Final Mindhub**
 
 - 🌱 I’m currently learning **MERN**
 
