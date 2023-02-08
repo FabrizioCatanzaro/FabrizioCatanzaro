@@ -10,9 +10,11 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align=left>
   
-- 🔭 I'm currently workin on: [My Portfolio](https://github.com/FabrizioCatanzaro/portfolio.git)
+- ✨ Full Stack MERN Web Developer & Mobile Apps
 
-- 🌱 I’m currently learning **MERN**
+- 🔭 I'm currently working on: [My Portfolio](https://github.com/FabrizioCatanzaro/portfolio.git)
+
+<!---- 🌱 I’m currently learning **MERN** --> 
 
 - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
 
