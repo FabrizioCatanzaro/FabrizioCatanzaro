@@ -13,6 +13,8 @@
 - ✨ Full Stack MERN Web Developer & Mobile Apps
 
 - 🔭 I'm currently working on: [Salute Drinks](https://github.com/ignaarguello/Salute---front)
+  
+- ⏳ [My Portfolio](https://github.com/FabrizioCatanzaro/portfolio) in process...
 
 <!---- 🌱 I’m currently learning **MERN** --> 
 
