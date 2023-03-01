@@ -21,7 +21,7 @@
 - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
 
 - ⚡ Random programming joke:
-` A programmer is sent to the grocery store with instructions to “Buy butter and see whether they have eggs, if they do, then buy 10.” Returning with 10 butters, the programmer says, “They had eggs.” `
+` I would spend my entire life where I belong, my favorite place in the world is ` [-34.6356729450975, -58.36471555987857](https://goo.gl/maps/a2YFaobC8adkvCDG7)
 </div>
 
 <hr>
