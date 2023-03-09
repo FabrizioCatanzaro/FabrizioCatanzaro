@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
 
-- ⚡ Random programming joke:
+- ⚡ Random fact about me:
 ` I would spend my entire life where I belong, my favorite place in the world is ` [-34.6356729450975, -58.36471555987857](https://goo.gl/maps/a2YFaobC8adkvCDG7)
 </div>
 
