@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello World👋, I'm Fabrizio</h1>
-<h3 align="center">A 22-year-old developer from Buenos Aires <img align="center" who is passionate about football and paddle tennis.</h3>
+<h3 align="center">A 22-year-old developer from Buenos Aires <img align="center" height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Argentina-Animated.gif/640px-Flag_of_Argentina-Animated.gif"> who is passionate about football and paddle tennis.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 
