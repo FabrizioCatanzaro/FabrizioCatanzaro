@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello World👋, I'm Fabrizio</h1>
-<h3 align="center">A 23-year-old developer from Buenos Aires <img align="center" height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Argentina-Animated.gif/640px-Flag_of_Argentina-Animated.gif"> who is passionate about football and paddle tennis.</h3>
+<h3 align="center">A 24-year-old developer from Buenos Aires <img align="center" height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Argentina-Animated.gif/640px-Flag_of_Argentina-Animated.gif"> who is passionate about football and paddle tennis.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 
@@ -29,7 +29,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/luciano-fabrizio-catanzaro-pfahler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fabrizio-catanzaro-pfahler-9619a418b" height="30" width="40" /></a>
-<a href="https://instagram.com/fabrycatanzaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabrycatanzaro" height="30" width="40" /></a>
 <a href="https://discord.gg/FabrizioCatanzaro#1452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FabrizioCatanzaro#1452" height="30" width="40" /></a>
 </p>
 
