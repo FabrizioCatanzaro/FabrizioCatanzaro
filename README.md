@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 <div align=left>
     
-  - ✨ Full Stack MERN Web Developer & Mobile Apps
+  - ✨ Full Stack MERN developer
   
   <!--- - 🔭 I'm currently working on: [Salute Drinks](https://github.com/ignaarguello/Salute---front) -->
     
