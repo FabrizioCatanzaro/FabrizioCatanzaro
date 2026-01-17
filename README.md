@@ -10,11 +10,11 @@
     
   - ✨ Full Stack MERN developer
   
-  <!--- - 🔭 I'm currently working on: [Salute Drinks](https://github.com/ignaarguello/Salute---front) -->
+  - 🔭 I'm currently working on: [Juegos De Juntada](https://github.com/De-Juntada)
     
-  <!-- - ⏳ [My Portfolio](https://github.com/FabrizioCatanzaro/portfolio) in process... -->
+  - ⏳ [My Portfolio](https://portfoliolfcp.vercel.app/)
   
-  <!---- 🌱 I’m currently learning **MERN** --> 
+  - 🌱 I’m currently working at Bees IoT as Backend Developer.
   
   - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
   
