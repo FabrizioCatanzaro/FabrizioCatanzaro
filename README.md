@@ -8,13 +8,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 <div align=left>
     
-  - ✨ Full Stack MERN developer
+  - ✨ Full Stack developer
   
-  - 🔭 I'm currently working on: [Juegos De Juntada](https://github.com/De-Juntada)
+  - 🔭 I'm currently working on: [Padeleando](https://padeleando.vercel.app/)
     
-  - ⏳ [My Portfolio](https://portfoliolfcp.vercel.app/)
+  - 🤺 [My Portfolio](https://portfoliolfcp.vercel.app/)
   
-  - 🌱 I’m currently working at Bees IoT as Backend Developer.
+  - 🌱 I’m currently working at Bees IoT as FullStack Developer.
   
   - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
   
