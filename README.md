@@ -82,15 +82,6 @@ The interesting part was concurrency: two people tapping the same number at the 
 
 ---
 
-### 📊 GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=FabrizioCatanzaro&show_icons=true&hide_border=true&bg_color=00000000&title_color=7f5af0&icon_color=7f5af0&text_color=808080" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabrizioCatanzaro&layout=compact&hide_border=true&bg_color=00000000&title_color=7f5af0&text_color=808080" alt="top languages" />
-</div>
-
----
-
 <div align="center">
   <p>Open to interesting projects and good conversations about code.<br/>
   <b><a href="mailto:fabriziocatanzaro1@gmail.com">fabriziocatanzaro1@gmail.com</a></b></p>
