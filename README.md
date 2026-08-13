@@ -1,57 +1,99 @@
-<div align=center>
-  <img align="center" width=35% height=200px  src="https://user-images.githubusercontent.com/101287470/202734490-2a4fdb20-e44c-4373-b992-84cbfcea7d40.gif">
+<div align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/101287470/202734490-2a4fdb20-e44c-4373-b992-84cbfcea7d40.gif" alt="" />
+
+  <h1>Hey, I'm Fabrizio 👋</h1>
+
+  <p><b>Full Stack Developer</b> · Buenos Aires, Argentina 🇦🇷</p>
+  <p>I build and ship web products end to end — TypeScript on both sides,<br/>Postgres underneath, and whatever automation saves the team an afternoon.</p>
+
+  <a href="https://portfoliolfcp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7f5af0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/luciano-fabrizio-catanzaro-pfahler"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fabriziocatanzaro1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<h1 align="center">Hello World👋, I'm Fabrizio</h1>
-<h3 align="center">A 25-year-old developer and a Simspons fan from Buenos Aires, Argentina <img align="center" height=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Argentina-Animated.gif/640px-Flag_of_Argentina-Animated.gif">.</h3>
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
-<div align=left>
-    
-  - ✨ Full Stack developer
-  
-  - 🔭 I'm currently working on: [Padeleando](https://padeleando.vercel.app/)
-    
-  - 🤺 [My Portfolio](https://portfoliolfcp.vercel.app/)
-  
-  - 🌱 I’m currently working at Bees IoT as FullStack Developer.
-  
-  - 📫 How to reach me: **fabriziocatanzaro1@gmail.com**
-  
-  <!-- - ⚡ Random fact about me:
-  ` I would spend my entire life where I belong, my favorite place in the world is ` [-34.6356729450975, -58.36471555987857](https://goo.gl/maps/a2YFaobC8adkvCDG7) -->
+### 👨‍💻 About
+
+Full Stack Developer at **[Bees IoT](https://www.linkedin.com/company/bees-iot/)** since 2024, working remotely on internal systems for agriculture clients. Studying **Computer Science (Lic. en Informática)** at Universidad Nacional del Oeste. English C1.
+
+Day to day I:
+
+- Build and maintain internal systems with **JavaScript/TypeScript, PostgreSQL and Docker**
+- Design **automated workflows with n8n** — one of them cut manual work by ~40%
+- Ship **monitoring and alerting with Grafana** for agro clients who need to know *now* when something breaks
+- Design and integrate the APIs that hold all of it together
+
+Outside of work I build products end to end, usually because I ran into the problem myself.
+
+---
+
+### 🚀 Projects
+
+#### 🎾 [Padeleando](https://padeleando.ar) · `live`
+
+A free web app for running padel tournaments. Organizers set up a **Liga** or **Americano**, load results live from their phone, and share a public standings link — no account needed to follow along. Mobile-first PWA, dark UI, zero setup.
+
+<a href="https://padeleando.ar"><img src="https://img.shields.io/badge/padeleando.ar-0a0e1a?style=flat-square&logo=googlechrome&logoColor=7f5af0" alt="padeleando.ar" /></a>
+
+#### 🎟️ RIFANDO · `closed beta`
+
+A platform to create and manage online raffles. Create a raffle, share a link, and buyers pick their numbers straight from the browser — payment coordinated over WhatsApp, no gateway required. Includes an admin dashboard and an integrated draw system.
+
+The interesting part was concurrency: two people tapping the same number at the same time. Solved with `SELECT FOR UPDATE SKIP LOCKED` plus TTL-based reservations.
+
+**Stack:** Next.js 15 · Tailwind · shadcn/ui · Express 5 · PostgreSQL (Neon) · JWT in httpOnly cookies with refresh token rotation · Zustand + TanStack Query v5 · Cloudinary
+
+---
+
+### 🧰 Tech
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Infra & tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 📊 GitHub
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=FabrizioCatanzaro&show_icons=true&hide_border=true&bg_color=00000000&title_color=7f5af0&icon_color=7f5af0&text_color=808080" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabrizioCatanzaro&layout=compact&hide_border=true&bg_color=00000000&title_color=7f5af0&text_color=808080" alt="top languages" />
 </div>
 
-<hr>
+---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/luciano-fabrizio-catanzaro-pfahler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fabrizio-catanzaro-pfahler-9619a418b" height="30" width="40" /></a>
-  <a href="https://discord.gg/fabriziocatanzaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FabrizioCatanzaro#1452" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <p>Open to interesting projects and good conversations about code.<br/>
+  <b><a href="mailto:fabriziocatanzaro1@gmail.com">fabriziocatanzaro1@gmail.com</a></b></p>
 
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-<div>
-  <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+  <img src="https://komarev.com/ghpvc/?username=FabrizioCatanzaro&label=Visitors&color=7f5af0&style=flat" alt="visitors" />
 </div>
-
-<hr>
-
-<div align=center>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabriziocatanzaro&show_icons=true&theme=dark&text_color=ffffff&locale=en&layout=compact" alt="fabriziocatanzaro" /></p>
-
-  <!-- <p>&nbsp;<img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=fabriziocatanzaro&show_icons=true&theme=dark&text_color=ffffff&locale=en" alt="fabriziocatanzaro" /></p>
-  
-  <p><img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=fabriziocatanzaro&theme=dark" alt="fabriziocatanzaro" /></p> -->
-</div>
-
-
-<!---
-![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioCatanzaro&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioCatanzaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Fabrizio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FabrizioCatanzaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---> 
