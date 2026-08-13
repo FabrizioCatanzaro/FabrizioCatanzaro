@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About
 
-Full Stack Developer at **[Bees IoT](https://www.linkedin.com/company/bees-iot/)** since 2024, working remotely on internal systems for agriculture clients. Studying **Computer Science (Lic. en Informática)** at Universidad Nacional del Oeste. English C1.
+Full Stack Developer at **[Bees IoT](https://www.linkedin.com/company/bees-iot/)** since 2024, working remotely on internal systems for different clients. Studying **Computer Science (Lic. en Informática)** at Universidad Nacional del Oeste. English C1.
 
 Day to day I:
 
@@ -32,7 +32,7 @@ Outside of work I build products end to end, usually because I ran into the prob
 
 #### 🎾 [Padeleando](https://padeleando.ar) · `live`
 
-A free web app for running padel tournaments. Organizers set up a **Liga** or **Americano**, load results live from their phone, and share a public standings link — no account needed to follow along. Mobile-first PWA, dark UI, zero setup.
+A free web app for running padel tournaments. Organizers set up a **Liga** or **Americano**, load results live from their phone, and share a public standings link — no account needed to follow along. Mobile-first PWA, dark UI, zero setup. Players can share their stats and race against their friends.
 
 <a href="https://padeleando.ar"><img src="https://img.shields.io/badge/padeleando.ar-0a0e1a?style=flat-square&logo=googlechrome&logoColor=7f5af0" alt="padeleando.ar" /></a>
 
@@ -50,9 +50,9 @@ The interesting part was concurrency: two people tapping the same number at the 
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
